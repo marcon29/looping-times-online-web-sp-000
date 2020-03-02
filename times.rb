@@ -4,4 +4,4 @@ def using_times
   end
 end
 
-usint_times
+using_times
